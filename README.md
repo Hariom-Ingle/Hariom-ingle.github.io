@@ -29,9 +29,14 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 🔭 I'm a Frontend Developer, crafted immersive and visually appealing user experiences.  
+<br><br>
 🎓I'm pursuing a Computer Engineering degree at the Government College of Engineering, Yavatmal.
-🎨 As a web developer, I am deeply passionate about crafting digital experiences that blend creativity and functionality seamlessly. I find immense satisfaction in transforming ideas into visually appealing and user-friendly websites. My enthusiasm for staying updated with the latest web technologies and constantly refining my coding skills reflects my commitment to delivering high-quality solutions. Each project is not just a piece of code; it's an opportunity to create something impactful, innovative, and tailored to meet users' unique needs. The dynamic nature of web development fuels my passion, and I am dedicated to pushing the boundaries of what is possible in the ever-evolving digital landscape. 
+<br><br>
+🎨 As a web developer, I am deeply passionate about crafting digital experiences that blend creativity and functionality seamlessly. 
+<br>I find immense satisfaction in transforming ideas into visually appealing and user-friendly websites. My enthusiasm for staying updated with the latest web technologies and constantly refining my coding skills reflects my commitment to delivering high-quality solutions. <br>I am dedicated to pushing the boundaries of what is possible in the ever-evolving digital landscape. 
+<br><br>
  💡 I'm a firm believer in lifelong learning. Each day presents an opportunity to acquire new skills and deepen my understanding of evolving technologies.
+ <br><br>
 🛠️ My Skill Set:  
 ```javascript
 const MySkillSet = {
