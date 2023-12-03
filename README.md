@@ -7,7 +7,7 @@
  
   </br>
     Frontend Developer
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<!--     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
   </em>
 </p>
 <p>
