@@ -14,10 +14,10 @@
   <a href="https://hariomingle2003@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://twitter.com/](https://twitter.com/HariomIngle025)">
+  <a href="https://twitter.com/HariomIngle025">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> 
-    <a href="[https://www.linkedin.com/in/fateme-ghalandari/](https://www.linkedin.com/in/hariom-ingle/)" target="_blank">
+    <a href="https://www.linkedin.com/in/hariom-ingle/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <!--   <a href="https://stackoverflow.com/users/12572405/fateme-ghalandari" target="_blank">
