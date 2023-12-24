@@ -11,6 +11,11 @@
   </em>
 </p>
 <p>
+    <p align="center">
+<a href="https://twitter.com/HariomIngle025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hariomingle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hariom-ingle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-khose" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hariom_ingle_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_pratikk_" height="30" width="40" /></a>
+</p>
   <a href="https://hariomingle2003@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
