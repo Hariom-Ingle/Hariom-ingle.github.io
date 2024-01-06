@@ -33,7 +33,7 @@
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-🔭 I'm a Frontend Developer, crafted immersive and visually appealing user experiences.  
+🔭 I'm a Frontend Developer, who crafted immersive and visually appealing user experiences.  
 <br><br>
 🎓I'm pursuing a Computer Engineering degree at the Government College of Engineering, Yavatmal.
 <br><br>
